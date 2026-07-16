@@ -44,3 +44,8 @@ IC Engine
 - Designed and assembled complex mechanical systems using SOLIDWORKS
 - Applied assembly mates to control component relationships and mechanical motion
 - Developed an understanding of structural design, clearances, and functional movement
+
+## Certification
+
+<img width="1912" height="1487" alt="image" src="https://github.com/user-attachments/assets/3a6d8f58-8e95-4cef-a44d-88d8bfe50d4d" />
+
