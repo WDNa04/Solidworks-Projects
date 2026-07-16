@@ -14,35 +14,33 @@
 
 | Item | Value |
 |------|------|
-| Mass | 1053.63 grams |
-| Material | |
-| Modeling Time | |
-| Features Used | |
-| Difficulty | |
+| Mass | 7535.31 grams |
+| Surface Area | 242955.82 square millimeters |
+| Volume | 105333.22 cubic millimeters |
 
 ## Components
 ```
 IC Engine
 ├── Final Assembly
 │   └── Piston Sub Assembly
-│      └── Piston Pin
-│      └── Piston
-│      └── Connecting Rod
-│      └── Connecting Rod Lock
-│   └── Valve Sub Assembly
-│      └── Valve
-│      └── Valve Retainer
-│      └── Valve Retainer Out
-│   └── Crankshaft
-│   └── Gear Big
-│   └── Gear Small
-│   └── Rocker Arm
-│   └── Rocket Arm
-│   └── Rod Gear
-│   └── Camshaft
+│      └── Piston Pin (Cast Alloy Steel)
+│      └── Piston (Alumina)
+│      └── Connecting Rod (Cast Carbon Steel)
+│      └── Connecting Rod Lock (Cast Carbon Steel)
+│   └── Valve Sub Assembly X2
+│      └── Valve (Gray Cast Iron)
+│      └── Valve Retainer (Titanium)
+│      └── Valve Retainer Out (Titanium)
+│   └── Crankshaft (Gray Cast Iron)
+│   └── Gear Big (Cast Carbon Steel)
+│   └── Gear Small (Cast Carbon Steel)
+│   └── Rocker Arm X2 (Cast Alloy Steel)
+│   └── Rocker Arm Rod X2 (Cast Alloy Steel)
+│   └── Rod Gear (Cast Alloy Steel)
+│   └── Camshaft (Gray Cast Iron)
 ```
 ## What I Learned
 
-- 
-- 
--
+- Designed and assembled complex mechanical systems using SOLIDWORKS
+- Applied assembly mates to control component relationships and mechanical motion
+- Developed an understanding of structural design, clearances, and functional movement
