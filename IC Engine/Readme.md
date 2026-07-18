@@ -6,7 +6,7 @@
 
 <video src="https://github.com/user-attachments/assets/79190750-d3cf-4ef4-b767-e73fc81d0ac2" width="850"></video>
 
-*Project from "Design and Assemble an IC Engine Using Solidworks" Course by EDUCBA
+Project from "Design and Assemble an IC Engine Using Solidworks" Course by EDUCBA
 
 </div>
 
