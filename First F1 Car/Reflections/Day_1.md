@@ -47,3 +47,5 @@ I'll be watching additional tutorials and practicing with simpler examples to st
 
 Looking back, this first day involved `far more preparation, troubleshooting, and learning` than actual modeling. While it was slower than I originally expected, every obstacle forced me to improve either my workflow, my understanding of SolidWorks, or my overall approach to engineering projects. 
 Although there is still a long journey ahead, I `feel much more confident` after overcoming these initial challenges. With the groundwork now in place, I hope to build momentum and tackle the more complex components of the Formula One car in the coming sessions. </p>
+
+🏠 [Home](../) | ➡️ [Next](Day_2.md)
