@@ -8,3 +8,4 @@ This project documents my journey of **designing and assembling a Formula One ca
 | Day | Progress | Link |
 |-----|----------|------|
 | Day 1 | Nose & Main Body | [View](Reflections/Day_1.md) |
+| Day 2 | Side Extensions | [View](Reflections/Day_2.md) |
