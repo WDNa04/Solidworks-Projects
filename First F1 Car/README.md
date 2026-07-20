@@ -9,3 +9,4 @@ This project documents my journey of **designing and assembling a Formula One ca
 |-----|----------|------|
 | Day 1 | Nose & Main Body | [View](Reflections/Day_1.md) |
 | Day 2 | Side Extensions | [View](Reflections/Day_2.md) |
+| Day 3 | Engine Intake & Cockpit & Shoulder Camera & T-Camera | [View](Reflections/Day_3.md) |
