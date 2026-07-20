@@ -32,4 +32,4 @@ The side extensions introduced an even greater challenge. Initially, there was `
 
 Today's experience reminded me that engineering is `rarely a straightforward process`. Behind every finished model are countless small decisions, unexpected obstacles, and iterative improvements. Success often depends less on knowing the correct answer immediately and more on `having the patience and determination` to investigate problems until a solution is found. By the end of today's session, I felt noticeably `more confident` than when I started. Every challenge I overcame reinforced the idea that engineering is a skill developed through `persistence, curiosity, and continuous learning`. With each session, I feel myself becoming more comfortable tackling increasingly complex CAD projects, and I'm `excited to carry this momentum` into the next stage of building the Formula One car.
 
-⬅️ [Previous](Day_1.md) | 🏠 [Home](../) | ➡️ [Next](Day_2.md)
+⬅️ [Previous](Day_1.md) | 🏠 [Home](../) | ➡️ [Next](Day_3.md)
