@@ -21,7 +21,6 @@ I documented the entire modeling process in a timelapse video. Check it out!
 https://youtu.be/krzykkJIj-4
 
 📸 **Final Look of Today**
-![alt text](<스크린샷 2026-07-21 165534.png>)
 
 ## 🛠️ Skills & Techniques Learned
 - `Offset Surface, Extend Surface & Cut with Surface` — Using surface bodies to extend existing geometry and cut solid bodies based on surface intersections.
@@ -38,21 +37,11 @@ The session started smoothly. I was introduced to the concept of creating an off
 
 The real challenge, however, began when I attempted to extend a surface created from the side of the Formula One car's nose.
 
-![alt text](image.png)
-
 As shown in the image above, the `extended surface did not follow the surface on the right`. This created a problem because I could not correctly use the Cut with Surface feature. I spent approximately an hour trying to identify the cause of the problem. I repeatedly checked the dimensions and alignment of the surrounding geometry, but nothing appeared to explain the issue. Usually, the reference tutorial provides enough information to identify where I have deviated from the intended process. However, this time, the problem was not caused by an incorrect dimension or missing relation. Eventually, I began to consider that the issue might be related to the geometry of the surface itself rather than the sketch controlling it.
 
 After examining the model more carefully, I discovered that `the side of the nose was not perfectly straight`. Although the deviation was almost impossible to notice visually, the surface was slightly tilted.
 
-<div align="center">
-  <img src="image-1.png" alt="alt text">
-</div>
-
 This explained why the extended surface gradually diverged from the surface on the right. I eventually traced the cause back to `a fillet I had created on the nose` earlier in the project. The fillet had subtly altered the geometry of the side surface, creating the slight curvature that was causing the extension to diverge.
-
-<div align="center">
-  <img src="image-2.png" alt="alt text">
-</div>
 
 After finally identifying the source of the problem, I immediately went to remove the fillet. Unfortunately, I was so relieved to have finally found the cause that I acted without thinking. This particular fillet was not an isolated feature but was the `feature that connected several important components of the main body`. Once I deleted it, `almost every component I had created during Days 2 and 3 began to show errors`. The damage was done.
 
