@@ -17,7 +17,7 @@ I documented the entire modeling process in a timelapse video. Check it out!
 https://youtu.be/JxuLQmPcQbA
 
 📸 **Final Look of Today**
-<img width="2875" height="1706" alt="스크린샷 2026-07-20 172550" src="https://github.com/user-attachments/assets/7b817d03-072d-4c74-a49b-38224385f50e" />
+<img alt="스크린샷 2026-07-20 172550" src="https://github.com/user-attachments/assets/7b817d03-072d-4c74-a49b-38224385f50e" />
 
 ## 🛠️ Skills & Techniques Learned
 - `Combining Bodies` — Merging independent solid bodies after completing individual operations to enable features such as fillets, sketches, and cuts across multiple components.

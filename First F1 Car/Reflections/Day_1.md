@@ -15,8 +15,7 @@ I documented the entire modeling process in a timelapse video. Check it out!
 https://youtu.be/zCLrdweVl6Q
 
 📸 **Final Look of Today**
-<img width="2875" height="1706" alt="스크린샷 2026-07-18 204733" src="https://github.com/user-attachments/assets/9f200f0c-1928-444b-8dea-efea4e690b4d" />
-
+<img alt="스크린샷 2026-07-18 204733" src="https://github.com/user-attachments/assets/9f200f0c-1928-444b-8dea-efea4e690b4d" />
 
 ## 🛠️ Skills & Techniques Learned
 - **Loft** – Creating smooth transitions between sketch profiles
