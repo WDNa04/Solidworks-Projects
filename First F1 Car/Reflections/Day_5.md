@@ -21,6 +21,7 @@ I documented the entire modeling process in a timelapse video. Check it out!
 https://youtu.be/ej56IAjpfzY
 
 📸 **Final Look of Today**
+<img alt="스크린샷 2026-07-25 175538" src="https://github.com/user-attachments/assets/7d34f5ca-f71a-4a8d-80d2-4bacf10f3a6a" />
 
 ## 🛠️ Skills & Techniques Learned
 - `Problem Solving` — Diagnosing modeling errors and developing solutions without relying solely on tutorials.
