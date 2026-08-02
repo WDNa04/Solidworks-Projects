@@ -12,3 +12,4 @@ This project documents my journey of **designing and assembling a Formula One ca
 | Day 3 | Engine Intake & Cockpit & Shoulder Camera & T-Camera | [View](Reflections/Day_3.md) |
 | Day 4 | Halo & Front Wing & Rear Wing & Exhaust & Bardgeboard | [View](Reflections/Day_4.md) |
 | Day 5 | Nose Winglets & Side Mirros & Rear Wing Edit & Sidepod Louvers | [View](Reflections/Day_5.md) |
+| Day 6 | Wheel Hubs, Suspension Wishbones, Floor Assembly, Brake Cooling Ducts, Cockpit Seat, and Wheels | [View](Reflections/Day_6.md) |
