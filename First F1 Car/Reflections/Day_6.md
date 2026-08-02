@@ -23,6 +23,8 @@ I documented the entire modeling process in a timelapse video. Check it out!
 https://youtu.be/nlw8xh8AdF8
 
 📸 **Final Look of Today**
+<img alt="스크린샷 2026-08-01 220133" src="https://github.com/user-attachments/assets/50f16b20-0390-4a83-999b-c3830b8ca1d2" />
+<img alt="스크린샷 2026-08-01 205809" src="https://github.com/user-attachments/assets/2b15a193-b45b-437a-904e-fbc796e86069" />
 
 
 ## 🛠️ Skills & Techniques Learned
