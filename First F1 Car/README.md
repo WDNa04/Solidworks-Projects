@@ -14,3 +14,4 @@ This project documents my journey of **designing and assembling a Formula One ca
 | Day 5 | Nose Winglets & Side Mirros & Rear Wing Edit & Sidepod Louvers | [View](Reflections/Day_5.md) |
 | Day 6 | Wheel Hubs & Suspension Wishbones & Floor Assembly & Brake Cooling Ducts, Cockpit Seat & Wheels | [View](Reflections/Day_6.md) |
 | Day 7 | Livery Design & Carbon Fiber Appearance & Modifications on Front Wing | [View](Reflections/Day_7.md) |
+| Day 8 | Livery Design & Design Sketch | [View](Reflections/Day_8.md) |
