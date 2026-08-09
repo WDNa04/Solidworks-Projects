@@ -21,6 +21,7 @@ https://youtu.be/KTXRG2VjZK4
 
 📸 **Final Look of Today**
 
+<img alt="스크린샷 2026-08-08 164337" src="https://github.com/user-attachments/assets/8c5b93d6-51dd-4750-81a3-704dc2622da1" />
 
 ## 🛠️ Skills & Techniques Used
 - `Split Lines` — Dividing and defining faces on complex surfaces to create areas for different appearances and design elements.
@@ -35,11 +36,22 @@ Today's session did not go exactly as planned, but it gave me an even `greater a
 
 As mentioned in Day 7, I started working on the livery design. But first, I decided to `create a preliminary concept rather than immediately designing directly on the SolidWorks model`. I felt this would be a more realistic approach to the design process. Similar to how engineers and designers often develop ideas through sketches, references, and iterations before committing to a final design, I wanted to `establish a general concept before translating it into CAD`. The image below shows the rough livery concept I created for my F1 car.
 
+<img alt="IMG_1222" src="https://github.com/user-attachments/assets/d16d2d6c-302c-4cfa-b8fc-999ad9e1ef09" />
+
 Although the concept may look relatively simple, there were actually `many different ideas and iterations behind it`. One of the main inspirations came from Porsche's design language. As mentioned in Day 7, I noticed that `Porsche frequently uses strong lines to emphasize the curvature and shape of its cars`. I particularly liked the use of the `two stripes along the hood of certain Porsche models`, so I decided to incorporate a similar concept into my F1 car.
+
+<p align="center">
+  <img src="https://cdn-ds.com/blogs-media/sites/729/2025/04/23081213/front-view-of-the-Porsche-911-GT3-RS-type-992-B_o.jpg" />
+</p>
 
 I also wanted to introduce a more subtle design element on the monocoque. I created a line that would appear relatively normal when viewed from the side but `form a shield-like shape when viewed from above`. This was intended as `a subtle reference to the shape of the Porsche crest` rather than simply placing the logo directly onto the car.
 
 The rear wing presented another challenge. I initially struggled to think of a design that fit the overall theme of the car. While researching historical and modern Formula One liveries, I noticed that some teams `prominently display their team name across the rear wing`. I really liked the visual impact of this approach, so I decided to incorporate my own version of it by placing `PORSCHE across the upper rear wing`.
+
+<p align="center">
+  <img src="https://media.formula1.com/image/upload/content/dam/fom-website/manual/2023/Launches2023/Ferrari2023Launch/Ferrari%201.jpg" width="49%">
+  <img src="https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/content/dam/fom-website/manual/2023/Launches2023/MercedesLaunch/Merc-4.webp" width="49%">
+</p>
 
 `The most difficult part of the design process`, however, turned out not to be creating the individual design elements, but `deciding how to color the car as a whole`. I decided to use colors inspired by the Porsche crest, particularly `red, black, white, and gold`. While the gold accent lines were relatively straightforward to implement, `choosing a primary body color and deciding how the colors should interact with one another was surprisingly difficult`. Every F1 car needs a cohesive visual identity, and I quickly realized that simply having several colors I liked did not necessarily mean that they would work well together. After experimenting with different ideas, I eventually decided to `divide parts of the main body diagonally`, using dark red and gray as the primary colors. The black rear wing and halo, along with the white Porsche lettering, naturally complemented the main body. I also experimented with an alternating black-and-red design for the front wing. `Although the design still needs further refinement, this process gave me a much better appreciation for the work of professional livery designers`. The seemingly simple liveries seen on race cars can actually `require an enormous amount of thought and iteration to make every element work together`.
 
